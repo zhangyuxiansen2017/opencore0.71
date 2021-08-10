@@ -5,11 +5,9 @@
 	<key>#Build Date</key>
 	<string>7-21-2021</string>
 	<key>#Maker by</key>
-	<string>爱玩黑果的小姐姐</string>
+	<string>octopus</string>
 	<key>#OpenCore Version</key>
 	<string>v0.7.1 Release</string>
-	<key>#Posted on</key>
-	<string>黑果小兵的部落阁 https://blog.daliansky.net</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
